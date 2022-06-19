@@ -6,7 +6,7 @@ This prolog program can solve a 16x16 sudoku.
 We call the sudoku "Matrix". 
 
   length(Matrix, 16)
-The function "Length" represents the variety of factors in the List. This predicate is a real relation and may be used to locate the duration of a listing or produce a listing (conserving variables) of duration Length. The length of this soduku is 16. 
+ The function "Length" represents the variety of factors in the List. This predicate is a real relation and may be used to locate the duration of a listing or produce a listing (conserving variables) of duration Length. The length of this soduku is 16. 
 
   maplist(same_length(Matrix), Matrix)
 The function "maplist" is higher-order predicates, which permit the definition of a predicate to be lifted approximately a unmarried detail to lists of such elements. We use the "maplist" command in this case to define that the matrix has the same lenght, as one matrix which is 16. 
